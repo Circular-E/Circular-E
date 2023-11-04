@@ -1,4 +1,4 @@
-1# Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile!
 
 Hello there! 👋 I'm Wu Yicong, a passionate enthusiast and professional with a keen interest in the fields of Computational Fluid Dynamics (CFD), Aerodynamics, and Fluid Mechanics. I am deeply intrigued by the intersection of these fields with Machine Learning and Artificial Intelligence.
 
